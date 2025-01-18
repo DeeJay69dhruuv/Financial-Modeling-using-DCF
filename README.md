@@ -1,1 +1,2 @@
 # Financial-Modeling-using-DCF
+Did Financial Modeling using DCF as a part of Annuity, IIT Gandhinagar Finance Club. Analyzed the Company Kalyan Jewelers. A south india dominated marketplayer, and second largest market share holder in the jewelery sector. DCF is Discounted Cash flow, this enabled me to predict the true value of the stock price of Kalyan Jewelers, and I was able to arrive at a final conclusion that, Kalyan Jewelers is currently trading at 5-10% premium.
